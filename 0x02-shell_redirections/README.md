@@ -1,1 +1,1 @@
-This project introduces learners to input and output redirections and essential text-processing commands in Linux. Through hands-on tasks, students will gain practical experience in redirecting command output, reading from files, and using common filters like cat, head, tail, sort, and uniq.
+Shell—I/O Redirections, and Filters
